@@ -1,4 +1,4 @@
-package de.vogella.jpa.eclipselink;
+package de.vogella.jpa.eclipselink.main;
 
 import static org.junit.Assert.assertTrue;
 
